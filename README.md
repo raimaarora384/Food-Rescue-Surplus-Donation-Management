@@ -1,2 +1,2 @@
 # Food-Rescue-Surplus-Donation-Management
-dsa project
+A C-based Data Structures project for managing surplus food donations and donation records.
